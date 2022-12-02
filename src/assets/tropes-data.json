@@ -115,7 +115,7 @@
         "type": "Weapon", 
         "trope": "Comedic Relief",
         "survivability": -100,
-        "image": "images/toothbrush.png" 
+        "image": "images/toothbrush.jpeg" 
     },
     {
         "name": "Wand",
@@ -124,7 +124,7 @@
         "type": "Weapon", 
         "trope": "Magic",
         "survivability": -10,
-        "image": "images/placeholder.png" 
+        "image": "images/wand.png" 
     }
   ]
   
