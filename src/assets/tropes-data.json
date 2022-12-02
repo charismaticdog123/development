@@ -6,7 +6,7 @@
       "type": "Background", 
       "trope": "The Antihero",
       "survivability": 40,
-      "image": "images/placeholder.png" 
+      "image": "images/dat.png" 
     },
     {
         "name": "No Origin Stories Allowed",
@@ -15,7 +15,7 @@
         "type": "Background", 
         "trope": "Comedic Relief",
         "survivability": -10,
-        "image": "images/placeholder.png" 
+        "image": "images/no.png" 
     },
     {
         "name": "Calm Middle-Aged Domestic Life",
@@ -24,7 +24,7 @@
         "type": "Background", 
         "trope": "Comedic Relief",
         "survivability": -10,
-        "image": "images/placeholder.png" 
+        "image": "images/b.png" 
     },
     {
         "name": "Ambiguous Criminal History",
@@ -33,7 +33,7 @@
         "type": "Background", 
         "trope": "Lovable Rogue",
         "survivability": 50,
-        "image": "images/placeholder.png" 
+        "image": "images/thief.png" 
     },
     {
         "name": "Byronic Hero",
@@ -42,7 +42,7 @@
         "type": "Archetype", 
         "trope": "The Antihero",
         "survivability": 20,
-        "image": "images/placeholder.png" 
+        "image": "images/s.png" 
     },
     {
         "name": "Thief",
@@ -51,7 +51,7 @@
         "type": "Archetype", 
         "trope": "Lovable Rogue",
         "survivability": 80,
-        "image": "images/placeholder.png" 
+        "image": "images/t.png" 
     },
 
     {
@@ -61,7 +61,7 @@
         "type": "Archetype", 
         "trope": "Written by a Woman",
         "survivability": 50,
-        "image": "images/placeholder.png" 
+        "image": "images/azula.png" 
     },
     {
         "name": "The Funny Guy",
@@ -70,7 +70,7 @@
         "type": "Archetype", 
         "trope": "Comedic Relief",
         "survivability": 200,
-        "image": "images/placeholder.png" 
+        "image": "images/sokka.png" 
     },
     {
         "name": "Wizard Classic",
@@ -79,7 +79,7 @@
         "type": "Archetype", 
         "trope": "Magic",
         "survivability": 30,
-        "image": "images/placeholder.png" 
+        "image": "images/wizard.png" 
     },
     {
         "name": "Pretty Princess Powerhouse",
@@ -88,7 +88,7 @@
         "type": "Archetype", 
         "trope": "Written by a Woman",
         "survivability": 100,
-        "image": "images/placeholder.png" 
+        "image": "images/princess.png" 
     },
     {
         "name": "Dagger",
@@ -97,7 +97,7 @@
         "type": "Weapon", 
         "trope": "Lovable Rogue",
         "survivability": 40,
-        "image": "images/placeholder.png" 
+        "image": "images/dagger.png" 
     },
     {
         "name": "Sword",
@@ -106,7 +106,7 @@
         "type": "Weapon", 
         "trope": "The Antihero",
         "survivability": 100,
-        "image": "images/placeholder.png" 
+        "image": "images/swprd.jpeg" 
     },
     {
         "name": "Toothbrush",
@@ -115,7 +115,7 @@
         "type": "Weapon", 
         "trope": "Comedic Relief",
         "survivability": -100,
-        "image": "images/placeholder.png" 
+        "image": "images/toothbrush.png" 
     },
     {
         "name": "Wand",
