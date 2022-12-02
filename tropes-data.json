@@ -1,0 +1,130 @@
+[
+    {
+      "name": "Dark and Troubled Past",
+      "id": 14,
+      "description": "You are haunted by something so terrible that you dare not speak of it. You’ve tried to bury it and run away from it, to no avail. Whatever this thing is that haunts you can’t be slain with a sword or banished with a spell. It might come to you as a shadow on the wall, a bloodcurdling nightmare, a memory that refuses to die, or a demonic whisper in the dark. The burden has taken its toll, isolating you from most people and making you question your sanity. You must find a way to overcome it before it destroys you.",
+      "type": "Background", 
+      "trope": "The Antihero",
+      "survivability": 40,
+      "image": "images/placeholder.png" 
+    },
+    {
+        "name": "No Origin Stories Allowed",
+      "id": 13,
+        "description": "When the creator doesn't even want to give a proper backstory for a character.",
+        "type": "Background", 
+        "trope": "Comedic Relief",
+        "survivability": -10,
+        "image": "images/placeholder.png" 
+    },
+    {
+        "name": "Calm Middle-Aged Domestic Life",
+      "id": 12,
+        "description": "Like the title, they come from a calm domestic life. Their temperament is likely akin to an old man. No one is quite sure why they're on the quest, but they somehow manage to utilize their domestic skills to survive.",
+        "type": "Background", 
+        "trope": "Comedic Relief",
+        "survivability": -10,
+        "image": "images/placeholder.png" 
+    },
+    {
+        "name": "Ambiguous Criminal History",
+      "id": 11,
+        "description": "An unexplained or unexpected criminal record that results in useful skills.",
+        "type": "Background", 
+        "trope": "Lovable Rogue",
+        "survivability": 50,
+        "image": "images/placeholder.png" 
+    },
+    {
+        "name": "Byronic Hero",
+      "id": 10,
+        "description": "The Byronic hero, incapable of love, or capable only of an impossible love, suffers endlessly. He is solitary, languid, his condition exhausts him. If he wants to feel alive, it must be in the terrible exaltation of a brief and destructive action.",
+        "type": "Archetype", 
+        "trope": "The Antihero",
+        "survivability": 20,
+        "image": "images/placeholder.png" 
+    },
+    {
+        "name": "Thief",
+      "id": 9,
+        "description": "A person who breaks the law, for their own personal profit, but is nice enough and charming enough to allow the audience to root for them, especially if they don't kill or otherwise seriously harm anyone. It helps that none of their victims are anyone we know or that they've made sure the audience knew they were jerks, which makes it /okay/ to steal from them. For extra points, he may even give some of his takings to the poor.",
+        "type": "Archetype", 
+        "trope": "Lovable Rogue",
+        "survivability": 80,
+        "image": "images/placeholder.png" 
+    },
+
+    {
+        "name": "Well-Written Vengeful Female Character",
+      "id": 8,
+        "description": "We rarely see well-written female characters with a vengeance arc, so I'm adding it. Quoted from the Mary Sue: Part of the reason I love female villains is that they so often embody the things traditionally women are told not be: sexual, messy, manipulative, loud, and power hungry. When they crave something, they go after it without mercy, and they get it—especially when it comes to revenge.",
+        "type": "Archetype", 
+        "trope": "Written by a Woman",
+        "survivability": 50,
+        "image": "images/placeholder.png" 
+    },
+    {
+        "name": "The Funny Guy",
+      "id": 7,
+        "description": "A character whose primary role in the show is to relieve tension with oddball and/or hysterical, buffoonish antics. They have a job to do, but don't get into the thick of things and can stay somewhat detached. Since their purpose is to relieve tension, they almost always have immunity to dying when compared to the other characters.",
+        "type": "Archetype", 
+        "trope": "Comedic Relief",
+        "survivability": 200,
+        "image": "images/placeholder.png" 
+    },
+    {
+        "name": "Wizard Classic",
+      "id": 6,
+        "description": "According to TV Tropes, 1) Traditional Wizardly Attire, 2) Carries a Magic Staff, 3) Wizardly Habits, 4) Mostly Male, 5) Association with Age and Wisdom.", 
+        "type": "Archetype", 
+        "trope": "Magic",
+        "survivability": 30,
+        "image": "images/placeholder.png" 
+    },
+    {
+        "name": "Pretty Princess Powerhouse",
+      "id": 5,
+        "description": "Looks like a delicate princess but can fight better than her guards.",
+        "type": "Archetype", 
+        "trope": "Written by a Woman",
+        "survivability": 100,
+        "image": "images/placeholder.png" 
+    },
+    {
+        "name": "Dagger",
+      "id": 4,
+        "description": "A kitchen knife, but sharper. Only cool if you're Inej from Six of Crows.",
+        "type": "Weapon", 
+        "trope": "Lovable Rogue",
+        "survivability": 40,
+        "image": "images/placeholder.png" 
+    },
+    {
+        "name": "Sword",
+      "id": 3,
+        "description": "It's cool, that's all.",
+        "type": "Weapon", 
+        "trope": "The Antihero",
+        "survivability": 100,
+        "image": "images/placeholder.png" 
+    },
+    {
+        "name": "Toothbrush",
+      "id": 2,
+        "description": "You're in the restroom when a dark shadow looms over you. You grab the first thing you can find and it's... a toothbrush??",
+        "type": "Weapon", 
+        "trope": "Comedic Relief",
+        "survivability": -100,
+        "image": "images/placeholder.png" 
+    },
+    {
+        "name": "Wand",
+      "id": 1,
+        "description": "You'd have to know some Magic to use this, otherwise it's just a stick.",
+        "type": "Weapon", 
+        "trope": "Magic",
+        "survivability": -10,
+        "image": "images/placeholder.png" 
+    }
+  ]
+  
